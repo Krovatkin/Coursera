@@ -4,7 +4,7 @@
 
 * **Zoonotic** passed from animals to humans
 
-* People usually have at least **2** types of herpes and  ~ **12** at the same time.  
+* People usually have at least **2** types of herpes and  ~ **12** viruses at the same time.  
 
 * **The Human Microbiome** enumerating microorganims in people 
 
@@ -14,16 +14,15 @@
 	* **LTR** (Long terminal repeats) are viral seqs (8%) 
 	* **Introns** are non-protein-coding seqs (26%) 
 	* Protein-coding genes (1.5%)
-
 	* Some viruses are useful
 		* **Polyoma** viruses are used to trace human migration and settlement 
 		* Panic grass can survive in very hot env (>50C) due to fungus+virus combo
 
-* Avian virus was modified to enable it to be airborne. Exps on ferrets.
+* **Avian virus** was modified to enable it to be airborne. Exps on ferrets.
 
 ### S2
 
-Virus is an infectious obligate (have to do it) intracellular parasite. 
+Virus is *an infectious obligate (have to do it) intracellular parasite.* 
 
 Exists in **2** stages (think of a seed or spore): 
 * **virion** (virus particle, chemical) consists of proteins, nucleic acids, carbohydates)
@@ -48,7 +47,7 @@ Ancient time references:
 * Polio 
 
 **Variolation** uses original viral material from an infected individual
-Vaccinaction uses less dangerous related viral material. For example, The cowpox virus is used to produce a smallpox vaccine
+Vaccinaction uses less dangerous related viral material. For example, The *cowpox virus* is used to produce a *smallpox* vaccine
 
 *Edward Jenner* did the first successful vaccination in 1790
 
@@ -58,8 +57,8 @@ The inventions and theories:
 * *Koch* (bacteriology) developed a method to test if a particular microorganism is the cause of a disease
 
 In 1892, investigating **Tobacco Mosaic virus**, *Ivanovsky* shows:
-	* infectious agents are very small (**<0.2 micron**)
-	* need host cells to replicate 
+* infectious agents are very small (**<0.2 micron**)
+* need host cells to replicate 
 
 Virus Discovery:
 
